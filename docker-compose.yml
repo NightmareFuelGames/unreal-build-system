@@ -1,4 +1,2 @@
 include:
-  - portainer/docker-compose.yml
   - horde/docker-compose.yml
-  - perforce/docker-compose.yml
